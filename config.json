@@ -1,0 +1,7 @@
+{
+    "customRules": {
+        "maxPromiseBatch": 10,
+        "maxBatchSize": 20,
+        "sendDelay": 100
+    }
+}
